@@ -25,4 +25,5 @@ OpenCore EFI for B450 chipset with AMD Ryzen 5 5600G with iGPU.
 > Motherboard is randomizing Memory Map, so sometimes it will throw an error, and sometimes it will work just fine. 
 
 # 🖼️ Result
-![image](https://github.com/Vuxoni/Sonoryzen---Ryzen-5600G-APU-Hackintosh/assets/86528980/ba546ed4-32d1-414f-a5bf-91a528cb80fd)
+
+![image](https://github.com/Vuxoni/Sonozen---Ryzen-5600G-APU-Hackintosh/assets/86528980/5999151c-3eb8-401e-81f5-dd3195ed2a7c)
