@@ -22,7 +22,7 @@ OpenCore EFI for B450 chipset with AMD Ryzen 5 5600G with iGPU.
 
 # ❗ Known issues
 - Memory map problems can keep your PC from booting. It is an known issue that has nothing to do with this EFI. It's connected to the motherboard. Feel free to edit ```boot-args``` and delete ```slide=xxx```. However, if memory problem occure (you'll know when it occured if you see some random numbers and Apple Stop sign while booting), you'll have to experiment with this number a bit.
-> Motherboard is randomizing Memory Map, so sometimes it will throw an error, and sometimes it will work just fine. 
+> Motherboard is randomizing Memory Map, so sometimes it will throw an error, and sometimes it will work just fine. Current fix is to keep it at one number (ex. 146) and restart it until it boots. Yikes.
 
 # 🖼️ Result
 
