@@ -30,4 +30,5 @@ OpenCore EFI for B450 chipset with AMD Ryzen 5 5600G with iGPU.
 
 # ❗ Works on Sequoia too :) Well...
 - Currently it's not possible to enable AppleALC on AMD machines running Sequoia. You should use USB headphones instead / or VoodooHDA (didn't try that).
+- CPU Name is wrong, patchable but I'm kinda lazzy right now.
 ![image](https://github.com/Vuxoni/Sonozen---Ryzen-5600G-APU-Hackintosh/assets/86528980/cf133b95-da65-482a-9cd7-c5ce2c2e006d)
