@@ -1,4 +1,4 @@
-# Sonozen Ryzen 5 5600G APU Hackintosh
+# Ryzen 5 5600G Hackintosh EFI
 OpenCore EFI for B450 chipset with AMD Ryzen 5 5600G with iGPU.
 # 🖥️ Specification
 - **CPU:** AMD Ryzen 5 5600G at 3.9Mhz
